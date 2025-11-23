@@ -1,0 +1,8 @@
+body{
+    background-color: white;
+}
+div{
+    background-color: lightgray ;
+    border-color: black;
+    padding: 10px;
+}
